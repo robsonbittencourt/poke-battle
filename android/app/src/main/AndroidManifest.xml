@@ -1,7 +1,7 @@
 <manifest xmlns:android="http://schemas.android.com/apk/res/android"
     package="com.example.poke_battle">
    <application
-        android:label="poke_battle"
+        android:label="Poké Battle"
         android:icon="@mipmap/ic_launcher">
         <activity
             android:name=".MainActivity"
